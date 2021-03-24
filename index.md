@@ -12,7 +12,7 @@ sudo apt update
 sudo apt upgrade
 ```
 
-For more details see [The Meridien](https://the-meridien.github.io/).
+For more details see [The Meridien](the-meridien.github.io)
 
 ### Jekyll Themes
 
